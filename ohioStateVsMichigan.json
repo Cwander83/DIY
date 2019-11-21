@@ -1,0 +1,804 @@
+{
+  "results": [
+    {
+      "location": "Columbus,  OH",
+      "date": "11/24/2018",
+      "ohioStateScore": "62",
+      "michiganScore": "39",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/25/2017",
+      "ohioStateScore": "31",
+      "michiganScore": "20",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/26/2016",
+      "ohioStateScore": "30",
+      "michiganScore": "27",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/28/2015",
+      "ohioStateScore": "42",
+      "michiganScore": "13",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/29/2014",
+      "ohioStateScore": "42",
+      "michiganScore": "28",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/30/2013",
+      "ohioStateScore": "42",
+      "michiganScore": "41",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/24/2012",
+      "ohioStateScore": "26",
+      "michiganScore": "21",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/26/2011",
+      "ohioStateScore": "34",
+      "michiganScore": "40",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/27/2010",
+      "ohioStateScore": "37",
+      "michiganScore": "7",
+      "unknown": "Ohio St. Vacated Game",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/21/2009",
+      "ohioStateScore": "21",
+      "michiganScore": "10",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/22/2008",
+      "ohioStateScore": "42",
+      "michiganScore": "7",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/17/2007",
+      "ohioStateScore": "14",
+      "michiganScore": "3",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/18/2006",
+      "ohioStateScore": "42",
+      "michiganScore": "39",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/19/2005",
+      "ohioStateScore": "25",
+      "michiganScore": "21",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/20/2004",
+      "ohioStateScore": "37",
+      "michiganScore": "21",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/22/2003",
+      "ohioStateScore": "21",
+      "michiganScore": "35",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/23/2002",
+      "ohioStateScore": "14",
+      "michiganScore": "9",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/24/2001",
+      "ohioStateScore": "26",
+      "michiganScore": "20",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/18/2000",
+      "ohioStateScore": "26",
+      "michiganScore": "38",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/20/1999",
+      "ohioStateScore": "17",
+      "michiganScore": "24",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/21/1998",
+      "ohioStateScore": "31",
+      "michiganScore": "16",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/22/1997",
+      "ohioStateScore": "14",
+      "michiganScore": "20",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/23/1996",
+      "ohioStateScore": "9",
+      "michiganScore": "13",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/25/1995",
+      "ohioStateScore": "23",
+      "michiganScore": "31",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/19/1994",
+      "ohioStateScore": "22",
+      "michiganScore": "6",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/20/1993",
+      "ohioStateScore": "0",
+      "michiganScore": "28",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/21/1992",
+      "ohioStateScore": "13",
+      "michiganScore": "13"
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/23/1991",
+      "ohioStateScore": "3",
+      "michiganScore": "31",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/24/1990",
+      "ohioStateScore": "13",
+      "michiganScore": "16",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/25/1989",
+      "ohioStateScore": "18",
+      "michiganScore": "28",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/19/1988",
+      "ohioStateScore": "31",
+      "michiganScore": "34",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/21/1987",
+      "ohioStateScore": "23",
+      "michiganScore": "20",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/22/1986",
+      "ohioStateScore": "24",
+      "michiganScore": "26",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/23/1985",
+      "ohioStateScore": "17",
+      "michiganScore": "27",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/17/1984",
+      "ohioStateScore": "21",
+      "michiganScore": "6",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/19/1983",
+      "ohioStateScore": "21",
+      "michiganScore": "24",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/20/1982",
+      "ohioStateScore": "24",
+      "michiganScore": "14",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/21/1981",
+      "ohioStateScore": "14",
+      "michiganScore": "9",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/22/1980",
+      "ohioStateScore": "3",
+      "michiganScore": "9",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/17/1979",
+      "ohioStateScore": "18",
+      "michiganScore": "15",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/25/1978",
+      "ohioStateScore": "3",
+      "michiganScore": "14",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/19/1977",
+      "ohioStateScore": "6",
+      "michiganScore": "14",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/20/1976",
+      "ohioStateScore": "0",
+      "michiganScore": "22",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/22/1975",
+      "ohioStateScore": "21",
+      "michiganScore": "14",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/23/1974",
+      "ohioStateScore": "12",
+      "michiganScore": "10",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/24/1973",
+      "ohioStateScore": "10",
+      "michiganScore": "10"
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/25/1972",
+      "ohioStateScore": "14",
+      "michiganScore": "11",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/20/1971",
+      "ohioStateScore": "7",
+      "michiganScore": "10",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/21/1970",
+      "ohioStateScore": "20",
+      "michiganScore": "9",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/22/1969",
+      "ohioStateScore": "12",
+      "michiganScore": "24",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/23/1968",
+      "ohioStateScore": "50",
+      "michiganScore": "14",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/25/1967",
+      "ohioStateScore": "24",
+      "michiganScore": "14",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/19/1966",
+      "ohioStateScore": "3",
+      "michiganScore": "17",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/20/1965",
+      "ohioStateScore": "9",
+      "michiganScore": "7",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/21/1964",
+      "ohioStateScore": "0",
+      "michiganScore": "10",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/30/1963",
+      "ohioStateScore": "14",
+      "michiganScore": "10",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/24/1962",
+      "ohioStateScore": "28",
+      "michiganScore": "0",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/25/1961",
+      "ohioStateScore": "50",
+      "michiganScore": "20",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/19/1960",
+      "ohioStateScore": "7",
+      "michiganScore": "0",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/21/1959",
+      "ohioStateScore": "14",
+      "michiganScore": "23",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/22/1958",
+      "ohioStateScore": "20",
+      "michiganScore": "14",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/23/1957",
+      "ohioStateScore": "31",
+      "michiganScore": "14",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/24/1956",
+      "ohioStateScore": "0",
+      "michiganScore": "19",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/19/1955",
+      "ohioStateScore": "17",
+      "michiganScore": "0",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/20/1954",
+      "ohioStateScore": "21",
+      "michiganScore": "7",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/21/1953",
+      "ohioStateScore": "0",
+      "michiganScore": "20",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/22/1952",
+      "ohioStateScore": "27",
+      "michiganScore": "7",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/24/1951",
+      "ohioStateScore": "0",
+      "michiganScore": "7",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/25/1950",
+      "ohioStateScore": "3",
+      "michiganScore": "9",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/19/1949",
+      "ohioStateScore": "7",
+      "michiganScore": "7"
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/20/1948",
+      "ohioStateScore": "3",
+      "michiganScore": "13",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/22/1947",
+      "ohioStateScore": "0",
+      "michiganScore": "21",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/23/1946",
+      "ohioStateScore": "6",
+      "michiganScore": "58",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/24/1945",
+      "ohioStateScore": "3",
+      "michiganScore": "7",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/25/1944",
+      "ohioStateScore": "18",
+      "michiganScore": "14",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/20/1943",
+      "ohioStateScore": "7",
+      "michiganScore": "45",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/21/1942",
+      "ohioStateScore": "21",
+      "michiganScore": "7",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/22/1941",
+      "ohioStateScore": "20",
+      "michiganScore": "20"
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/23/1940",
+      "ohioStateScore": "0",
+      "michiganScore": "40",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/25/1939",
+      "ohioStateScore": "14",
+      "michiganScore": "21",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/19/1938",
+      "ohioStateScore": "0",
+      "michiganScore": "18",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/20/1937",
+      "ohioStateScore": "21",
+      "michiganScore": "0",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/21/1936",
+      "ohioStateScore": "21",
+      "michiganScore": "0",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/23/1935",
+      "ohioStateScore": "38",
+      "michiganScore": "0",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/17/1934",
+      "ohioStateScore": "34",
+      "michiganScore": "0",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/21/1933",
+      "ohioStateScore": "0",
+      "michiganScore": "13",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "10/15/1932",
+      "ohioStateScore": "0",
+      "michiganScore": "14",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/17/1931",
+      "ohioStateScore": "20",
+      "michiganScore": "7",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "10/18/1930",
+      "ohioStateScore": "0",
+      "michiganScore": "13",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/19/1929",
+      "ohioStateScore": "7",
+      "michiganScore": "0",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "10/20/1928",
+      "ohioStateScore": "19",
+      "michiganScore": "7",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/22/1927",
+      "ohioStateScore": "0",
+      "michiganScore": "21",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/13/1926",
+      "ohioStateScore": "16",
+      "michiganScore": "17",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/14/1925",
+      "ohioStateScore": "0",
+      "michiganScore": "10",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/15/1924",
+      "ohioStateScore": "6",
+      "michiganScore": "16",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/20/1923",
+      "ohioStateScore": "0",
+      "michiganScore": "23",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "10/21/1922",
+      "ohioStateScore": "0",
+      "michiganScore": "19",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/22/1921",
+      "ohioStateScore": "14",
+      "michiganScore": "0",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/6/1920",
+      "ohioStateScore": "14",
+      "michiganScore": "7",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/25/1919",
+      "ohioStateScore": "13",
+      "michiganScore": "3",
+      "ohioStateWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/30/1918",
+      "ohioStateScore": "0",
+      "michiganScore": "14",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "10/19/1912",
+      "ohioStateScore": "0",
+      "michiganScore": "14",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/21/1911",
+      "ohioStateScore": "0",
+      "michiganScore": "19",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "10/22/1910",
+      "ohioStateScore": "3",
+      "michiganScore": "3"
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/16/1909",
+      "ohioStateScore": "6",
+      "michiganScore": "33",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "10/24/1908",
+      "ohioStateScore": "6",
+      "michiganScore": "10",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/26/1907",
+      "ohioStateScore": "0",
+      "michiganScore": "22",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "10/20/1906",
+      "ohioStateScore": "0",
+      "michiganScore": "6",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/11/1905",
+      "ohioStateScore": "0",
+      "michiganScore": "40",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "10/15/1904",
+      "ohioStateScore": "6",
+      "michiganScore": "31",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/7/1903",
+      "ohioStateScore": "0",
+      "michiganScore": "36",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/25/1902",
+      "ohioStateScore": "0",
+      "michiganScore": "86",
+      "michiganWin": " "
+    },
+    {
+      "location": "Columbus,  OH",
+      "date": "11/9/1901",
+      "ohioStateScore": "0",
+      "michiganScore": "21",
+      "michiganWin": " "
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "11/24/1900",
+      "ohioStateScore": "0",
+      "michiganScore": "0"
+    },
+    {
+      "location": "Ann Arbor,  MI",
+      "date": "10/16/1897",
+      "ohioStateScore": "0",
+      "michiganScore": "34",
+      "michiganWin": " "
+    }
+  ]
+}
